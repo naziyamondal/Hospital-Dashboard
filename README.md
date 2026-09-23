@@ -61,20 +61,19 @@ These KPIs provide a quick overview of the available hospital data and can chang
 ## 🖥️ Dashboard Preview
 
 Dashboard 1:
+## 📥 Download Excel Dashboard
 
-![Hospital Dashboard](screenshots/dashboard-1.png)
+[📥 Download Hospital Dashboard](./HospitalDashboard.xlsx)
 
-Dashboard 2:
-
-![Hospital Dashboard](screenshots/dashboard-2.png)
+https://1drv.ms/x/c/e024fb878b03e681/IQC9VKHu4NriQ6Q0Vw0_m0WOASjOKgjVZyTWncwm9h0am_U?e=pDdza6
 
 ## 📂 Dataset
 
 The project uses hospital-related data for analysis and visualization.
 
-The dataset is stored inside the data folder:
+The dataset is stored in:
 
-data/hospital_data.xlsx
+hospital_data.xlsx
 
 The dataset is analyzed and visualized using Microsoft Excel.
 
